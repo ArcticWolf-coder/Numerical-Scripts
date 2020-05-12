@@ -1,0 +1,38 @@
+pip package manager but anaconda preferred
+type(variable) will print <class 'typename'>
+complex number= 1+2j; here j=imaginary no
+bool =False/True
+if we divide by default its float. to get int just cast
+for power **
+data limit of python is huge
+for substring, d[3:7]
+string methods> upper(),lower(),strip(),find("?")
+d=d.replace("me","myself");
+&& || !> and or not
+ternary > x="a" if n==0 else "z"
+no bracket in conditions
+in a single curly of condition indent must be equal
+not before condition and after condition is False works
+if:... elif:... else:...
+range can be given like if 18<bmi<25 :
+cannot give space in beginning except for curly occurrence
+for i in range(start,end): print(i); i+=1; / for i in range(start,end,increment): here i is iterator
+chr> corresponding character & ord> corresponding ascii value
+print(chr(i),end=" ") > not make single line. by default end="\n"
+fucntion> def fname(parameters): return value; if initialization required use inside bracket var=val.
+for returning multi values use comma same case for parameters
+to swap> b,a=a,b
+you cannot assign a terminology with value otherwise gone after override
+list> a=[10,20,30];
+for list> sum(a),max(a),min(a),a.insert(id,val),a.pop(){like stack},a.remove(val),a.reverse(),a.sort()
+to merge lists, a+b
+if we use a.append(b)>> [10,20,[1,2]];
+a[2::-1] >from 2 to start in reverse;
+for idx,val in enumerate(lname): > assigns index and value to idx,val respectively
+formatted string>f"..{i}.." > prints value of i in that pos
+HW: set 
+start from dictionary in next class
+
+
+
+
